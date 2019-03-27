@@ -29,7 +29,7 @@ month={Sep.},}
 
 ```
 ### Code
-* mslReSIFT: propsed metrhod that takes compared images as input and ouputs the estiamted quality score ReSIFT
+* mslReSIFT: propsed method that takes compared images as input and ouputs the estiamted quality score ReSIFT
 * Required packed: vlfeat is required for SIFT feature extraction and mathcing. Download and compile from http://www.vlfeat.org/overview/sift.html.
 
 
